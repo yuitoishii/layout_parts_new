@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
-.q4 {
+.q4-background {
   padding: 20px;
   box-sizing: border-box;
   background-color: #ECF1F2;
@@ -10,7 +10,6 @@
 .q4-contents{
   display: table;
   width: 100%;
-  background-color: #ECF1F2;
   margin-top: 20px;
 }
 

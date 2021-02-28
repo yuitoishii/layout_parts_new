@@ -8,6 +8,12 @@
   background-color: #ECF1F2;
 }
 
+.clearfix::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
 .q2-thumb{
   margin-bottom: 10px;
 }

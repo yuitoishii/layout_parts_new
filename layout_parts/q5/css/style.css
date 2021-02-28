@@ -2,7 +2,7 @@
 
 /* 回答はここに書いてね */
 
-.q5 {
+.q5-222{
   position: relative;
   width: 500px;
   height: 500px;
@@ -16,6 +16,7 @@
   font-size: 30px;
   line-height: 100px;
   text-align: center;
+  font-weight: bold;
 }
 
 .q5-box.is-8{
