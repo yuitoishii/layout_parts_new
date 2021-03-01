@@ -8,8 +8,10 @@
   background-color: #ECF1F2;
 }
 
-.clearfix {
+.clearfix::after {
+  content: "";
   display: block;
+  clear: both;
 }
 
 .q2-thumb-left{
