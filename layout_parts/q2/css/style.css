@@ -8,19 +8,14 @@
   background-color: #ECF1F2;
 }
 
-.clearfix::after {
-  content: " ";
+.clearfix {
   display: block;
-  clear: both;
-}
-
-.q2-thumb{
-  margin-bottom: 10px;
 }
 
 .q2-thumb-left{
   float: left;
   margin-right: 20px;
+  margin-bottom: 10px;
 }
 
 .q2-text {
@@ -32,5 +27,6 @@
 .q2-thumb-right{
   float: right;
   margin-left: 20px;
+  margin-bottom: 10px;
 }
 /* 回答はここに書いてね */
